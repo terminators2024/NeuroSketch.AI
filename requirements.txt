@@ -1,0 +1,9 @@
+tensorflow
+streamlit
+numpy
+pillow
+opencv-python
+scikit-image
+matplotlib
+lime
+fpdf
