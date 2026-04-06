@@ -514,9 +514,9 @@ Early detection leads to **better treatment** and improved quality of life
 
 | Platform | Link |
 |:--------:|:----:|
-| 📧 **Email** | [your.email@gmail.com](mailto:your.email@gmail.com) |
-| 🔗 **LinkedIn** | [Add your LinkedIn URL] |
-| 🐱 **GitHub** | [Add your GitHub URL] |
+| 📧 **Email** | [narendrawakhare@gmail.com](mailto:narendrawakhare@gmail.com) |
+| 🔗 **LinkedIn** | [https://www.linkedin.com/in/narendrawakhare/] |
+| 🐱 **GitHub** | [https://github.com/narendra-44] |
 
 </div>
 
